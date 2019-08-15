@@ -108,9 +108,3 @@ export class EmployeeListComponent extends PagedListingComponentBase<EmployeeDTO
     });
   }
 }
-
-
-
-
-
-
